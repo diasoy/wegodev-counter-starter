@@ -11,7 +11,7 @@ function App() {
   const [todos, setTodos] = useState([
     { title: "Susu Ultra", count: 1 },
     { title: "Tahu Sumedang", count: 1 },
-    { title: "Semangka Jawa", count: 1 },
+    { title: "Semangka", count: 1 },
   ]);
 
   const handleSubmit = (e) => {
